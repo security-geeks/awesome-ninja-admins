@@ -264,8 +264,8 @@ Before add pull request please see **[this](https://github.com/trimstray/the-boo
 <p>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://securityheaders.com/"><b>Security Headers</b></a> - analyse the HTTP response headers (with rating system to the results).<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://observatory.mozilla.org/"><b>Observatory by Mozilla</b></a> - set of tools to analyze your website.<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://enable-cors.org/index.html"><b>Enable CORS</b></a> - enable cross-origin resource sharing.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://webhint.io/"><b>webhint</b></a> - is a linting tool that will help you with your site's accessibility, speed, security and more.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://enable-cors.org/index.html"><b>Enable CORS</b></a> - enable cross-origin resource sharing.<br>
 </p>
 
 ##### :black_small_square: DNS
